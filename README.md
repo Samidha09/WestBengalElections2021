@@ -1,7 +1,4 @@
 # WestBengalElections2021
 
-Data analysis of twitter data
-
-### References:
-
-https://github.com/amitupreti/Hands-on-WebScraping/tree/master/project1_twitter_hashtag_crawler
+Data analysis of twitter data related to West Bengal Elections, 2021
+Link to report: [Report]()
